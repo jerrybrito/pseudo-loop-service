@@ -1,0 +1,1 @@
+quasi-absence>=2.7.3
